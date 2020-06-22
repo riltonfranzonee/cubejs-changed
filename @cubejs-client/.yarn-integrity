@@ -1,0 +1,20 @@
+{
+  "systemParams": "darwin-x64-64",
+  "modulesFolders": [
+    "node_modules"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "@cubejs-client/react@^0.19.31"
+  ],
+  "lockfileEntries": {
+    "@babel/runtime@^7.1.2": "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.3.tgz#670d002655a7c366540c67f6fd3342cd09500364",
+    "@cubejs-client/react@^0.19.31": "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.19.31.tgz#e469c4f31cee2358b581035805c006d1e86eb26d",
+    "core-js@^3.6.5": "https://registry.yarnpkg.com/core-js/-/core-js-3.6.5.tgz#7395dc273af37fb2e50e9bd3d9fe841285231d1a",
+    "ramda@^0.27.0": "https://registry.yarnpkg.com/ramda/-/ramda-0.27.0.tgz#915dc29865c0800bf3f69b8fd6c279898b59de43",
+    "regenerator-runtime@^0.13.4": "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.5.tgz#d878a1d094b4306d10b9096484b33ebd55e26697"
+  },
+  "files": [],
+  "artifacts": {}
+}
